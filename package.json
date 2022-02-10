@@ -12,7 +12,7 @@
     "bootstrap": "^4.5.0",
     "clsx": "^1.1.1",
     "history": "^5.0.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "latest",
     "react-dom": "latest",
     "react-redux": "^7.2.0",
